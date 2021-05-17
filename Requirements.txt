@@ -1,0 +1,5 @@
+requests == v.2.22.0
+module datetime
+pyTelegramBotApi == v.3.7.7
+telebot == v.0.0.4
+wheel == v.0.34.2
