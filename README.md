@@ -1,1 +1,3 @@
-# telegram-python-bot
+# telegram-python-bot:
+Телеграм-бот по отслеживанию стоимости биткоина
+
